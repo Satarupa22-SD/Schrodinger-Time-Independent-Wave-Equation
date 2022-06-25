@@ -1,0 +1,1 @@
+# Schrodinger-Time-Independent-Wave-Equation
